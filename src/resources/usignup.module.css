@@ -1,0 +1,123 @@
+/* Main form container */
+#Uform {
+  width: 500px;
+  margin: 40px auto;
+  padding: 30px;
+  background-color:#e9eee9;
+  border-radius: 12px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);
+}
+
+/* Form table */
+#formTable {
+  width: 100%;
+  border-collapse: collapse;
+  border: none;
+}
+
+/* Table cells */
+#formTable td {
+  padding: 10px;
+  border: none;
+}
+
+/* Labels */
+#formTable td:first-child label {
+  font-size: 15px;
+  font-weight: 600;
+  color: #16423C;
+  white-space: nowrap;
+}
+
+/* Input fields */
+#formTable input[type="text"],
+#formTable input[type="email"],
+#formTable input[type="tel"],
+#formTable input[type="date"],
+#formTable input[type="password"] {
+  width: 100%;
+  box-sizing: border-box;
+  padding: 10px;
+  border: 1px solid #9bc9a3;
+  border-radius: 6px;
+  outline: none;
+  font-size: 14px;
+}
+
+/* Input focus */
+#formTable input:focus {
+  border-color: #3a8f5c;
+  box-shadow: 0 0 0 2px rgba(58, 143, 92, 0.15);
+}
+
+/* Gender radio buttons */
+#formTable input[type="radio"] {
+  width: auto;
+  margin-right: 4px;
+  accent-color: #3a8f5c;
+}
+
+/* Gender labels */
+#formTable input[type="radio"] + label {
+  margin-right: 8px;
+  font-size: 14px;
+  color: #16423C;
+}
+
+/* Signup button */
+#formTable button {
+  width: 100%;
+  padding: 11px 20px;
+  border: none;
+  border-radius: 6px;
+  background-color: #3a8f5c;
+  color: white;
+  font-size: 15px;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+/* Button hover */
+#formTable button:hover {
+  background-color: #267044;
+}
+
+/* Login link */
+#formTable a {
+  color: #267044;
+  text-decoration: none;
+  font-size: 14px;
+}
+
+/* Link hover */
+#formTable a:hover {
+  text-decoration: underline;
+}
+
+/* Mobile responsive */
+@media (max-width: 600px) {
+  #Uform {
+    width: 90%;
+    box-sizing: border-box;
+    padding: 20px;
+  }
+
+  #formTable td {
+    display: block;
+    width: 100%;
+    box-sizing: border-box;
+  }
+
+  #formTable input[type="text"],
+  #formTable input[type="email"],
+  #formTable input[type="tel"],
+  #formTable input[type="date"],
+  #formTable input[type="password"] {
+    width: 100%;
+  }
+
+  #formTable button {
+    width: 100%;
+  }
+}
+

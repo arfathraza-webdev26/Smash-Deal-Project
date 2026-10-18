@@ -1,0 +1,146 @@
+{
+  "user": [
+    {
+      "firstname": "Mohammed Arfath",
+      "lastname": "Raza S",
+      "dob": "2005-05-06",
+      "email": "arfath@gmail.com",
+      "mobile": "8553611726",
+      "gender": "Male",
+      "password": "1234567890",
+      "confirmpassword": "1234567890",
+      "id": "N1xL9XV1570"
+    },
+    {
+      "firstname": "raza",
+      "lastname": "elahi",
+      "dob": "2005-06-07",
+      "email": "kings82d@gmail.com",
+      "mobile": "8553611706",
+      "gender": "Male",
+      "password": "0987654321",
+      "confirmpassword": "0987654321",
+      "id": "8K_-BPHuwvw"
+    },
+    {
+      "firstname": "Shaik",
+      "lastname": "Ahamed",
+      "dob": "1970-06-20",
+      "email": "shaik@gmail.com",
+      "mobile": "8553611706",
+      "gender": "Male",
+      "password": "shaik123",
+      "confirmpassword": "shaik12",
+      "id": "nmFeucbfaDE"
+    },
+    {
+      "firstname": "Famida",
+      "lastname": "Banu",
+      "dob": "1980-08-20",
+      "email": "fam@gmail.com",
+      "mobile": "8792266416",
+      "gender": "Female",
+      "password": "fam123",
+      "confirmpassword": "fam123",
+      "id": "KxzIvR1w2yg"
+    },
+    {
+      "firstname": "Mallesh",
+      "lastname": "Gowda",
+      "dob": "2004-04-04",
+      "email": "malla@hotmail.com",
+      "mobile": "7879874297",
+      "gender": "Male",
+      "password": "mallu@13",
+      "confirmpassword": "mallu@123",
+      "id": "BH5hhWDPRJI"
+    }
+  ],
+  "admin": [
+    {
+      "username": "admin",
+      "password": "admin@123",
+      "id": "_n7aZ1UokmE"
+    },
+    {
+      "username": "arfath",
+      "password": "arfath@2005",
+      "id": "tqcaV0y7ugg"
+    }
+  ],
+  "products": [
+    {
+      "pname": "ice",
+      "pdesc": "ice cream delicios, cold and very hot",
+      "pqty": "5",
+      "pprice": "12",
+      "pimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqDSEBXWP47SCrHrC4-QZgJ-8IeQnP9_3VpFmIeFtAWjUCDldhVjaNJWul&s=10",
+      "id": "EilzgYFlyYY"
+    },
+    {
+      "pname": "i phone 17 pro max",
+      "pdesc": "very expensive status showing phone",
+      "pprice": "180000",
+      "pqty": "1",
+      "pimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmaGLt9N6Ev7XsEsMV6Hz0Czp8EzPsBv7oH5qU2HPetw&s=10",
+      "id": "amrjb3jP2gw"
+    },
+    {
+      "pname": "T.V",
+      "pdesc": "Large screen Television",
+      "pprice": "80000",
+      "pqty": "5",
+      "pimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpTCDCUffnxo8B_J3Elf0aUybFqSds3DaMPHr3_y00LQ&s=10",
+      "id": "gU3VAKreojQ"
+    },
+    {
+      "pname": "T.V",
+      "pdesc": "Large screen Television",
+      "pprice": "80000",
+      "pqty": "5",
+      "pimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpTCDCUffnxo8B_J3Elf0aUybFqSds3DaMPHr3_y00LQ&s=10",
+      "id": "cMa6T_D8rQ8"
+    },
+    {
+      "pname": "Samsung s27 ultra",
+      "pdesc": "iphone competing phone",
+      "pprice": "200000",
+      "pqty": "5",
+      "pimg": "https://i.ytimg.com/vi/aIT0ib8-QpM/sddefault.jpg",
+      "id": "C3FJnPYZwso"
+    },
+    {
+      "pname": "asdfgh",
+      "pdesc": "sdfgh",
+      "pprice": "2333",
+      "pqty": "4",
+      "pimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfuybbH8cmRVzHd_fOlAdjmA_iGBWkxcYrllNtdtYyBA&s=10",
+      "id": "xQo-Onx6IFI"
+    },
+    {
+      "pname": "asdfgh",
+      "pdesc": "sdfgh",
+      "pprice": "2333",
+      "pqty": "4",
+      "pimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfuybbH8cmRVzHd_fOlAdjmA_iGBWkxcYrllNtdtYyBA&s=10",
+      "id": "DcaygF1kwL8"
+    },
+    {
+      "pname": "sdfg",
+      "pdesc": "dfghjhgfdfgfds",
+      "pprice": "12345",
+      "pqty": "5",
+      "pimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaQORuXY8BJmOMzK0JGDCnsd3WJtc561pFxhWdorxAtg&s=10",
+      "id": "WnBnB5n2hiI"
+    },
+    {
+      "pname": "ainbdlig",
+      "pdesc": "KAH hjshidhdkjha  hda",
+      "pprice": "30",
+      "pqty": "10",
+      "pimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaQORuXY8BJmOMzK0JGDCnsd3WJtc561pFxhWdorxAtg&s=10",
+      "id": "qgm0Amvc8wo"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
